@@ -8,8 +8,8 @@ const contact = [
   },
   {
     label: "Portfolio",
-    value: "portfolio-alpha-ten-61.vercel.app",
-    href: "https://portfolio-alpha-ten-61.vercel.app",
+    value: "portpholio-iota.vercel.app",
+    href: "https://portpholio-iota.vercel.app",
   },
   { label: "Location", value: "Chandigarh, India" },
 ];
