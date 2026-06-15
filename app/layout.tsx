@@ -4,8 +4,8 @@ import { WhatsAppButton } from "@/components/whatsapp-button";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Saurav Kumar | Frontend Developer",
-  description: "Saurav Kumar portfolio - Frontend Developer with 3+ years creating engaging, responsive websites.",
+  title: "Saurav Kumar | UI Developer",
+  description: "Saurav Kumar portfolio - UI Developer with 3+ years creating engaging, responsive websites.",
   icons: {
     icon: "/icon.svg",
     shortcut: "/icon.svg",
@@ -26,7 +26,7 @@ export default function RootLayout({
             <SiteHeader />
             {children}
             <footer className="mt-10 border-t border-white/5 pt-3 text-center text-xs text-slate-500">
-              <p>© 2026 Saurav Kumar | Frontend Developer</p>
+              <p>© 2026 Saurav Kumar | UI Developer</p>
             </footer>
           </div>
           <WhatsAppButton />

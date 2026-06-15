@@ -7,7 +7,7 @@ const navItems = [
   { href: "/", label: "Home", icon: "Home" },
   { href: "/experience", label: "Experience", icon: "Experience" },
   { href: "/work", label: "Work", icon: "Work" },
-  { href: "/saurav_kumar.pdf", label: "Resume", icon: "Resume", target: "_blank" },
+  { href: "/resume", label: "Resume", icon: "Resume" },
 ];
 
 function navClass(isActive: boolean) {
@@ -33,7 +33,7 @@ export function SiteHeader() {
             <span className="block text-xs font-bold uppercase tracking-wider text-cyan-300">
               Saurav
             </span>
-            <span className="block text-[10px] text-slate-400">Frontend Developer</span>
+            <span className="block text-[10px] text-slate-400">UI Developer</span>
           </span>
         </Link>
 
@@ -42,8 +42,6 @@ export function SiteHeader() {
             <Link
               key={item.href}
               href={item.href}
-              target={item.target}
-              rel={item.target ? "noreferrer" : undefined}
               aria-current={pathname === item.href ? "page" : undefined}
               aria-label={item.label}
               className={navClass(pathname === item.href)}

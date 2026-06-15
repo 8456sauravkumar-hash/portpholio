@@ -1,13 +1,13 @@
 const experiences = [
   {
-    role: "Frontend Developer",
+    role: "UI Developer",
     company: "Suffesscom solution",
     period: { start: "24 October 2024", end: "Present" },
     description: "Designing responsive, modern web interfaces with exceptional UI/UX. Creating interactive React components with Tailwind CSS and Figma designs that deliver seamless user experiences.",
     skills: ["React", "Figma", "Tailwind CSS", "UI/UX Design"],
   },
   {
-    role: "Frontend Developer",
+    role: "UI Developer",
     company: "Henceforth Solution",
     period: { start: "14 January 2023", end: "30 August 2024" },
     description: "Developed React applications with focus on UI/UX implementation. Built responsive web interfaces using modern JavaScript and component-based architecture.",

@@ -59,14 +59,12 @@ export default function Home() {
     <>
         <section className="grid gap-8 overflow-hidden rounded-2xl border border-slate-800 bg-slate-900/80 px-4 py-7 shadow-2xl shadow-sky-950/30 sm:rounded-[2rem] sm:px-8 sm:py-10 lg:grid-cols-[1.1fr_0.9fr]">
           <div className="min-w-0 max-w-2xl">
-            <span className="inline-flex rounded-full bg-sky-500/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] text-sky-300 sm:px-4 sm:text-xs sm:tracking-[0.35em]">
-              Frontend Developer
-            </span>
+            <span className="inline-flex rounded-full bg-sky-500/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] text-sky-300 sm:px-4 sm:text-xs sm:tracking-[0.35em]">UI Developer</span>
             <h1 className="mt-6 text-3xl font-bold leading-tight text-white sm:text-5xl lg:text-6xl">
               Saurav Kumar
             </h1>
             <p className="mt-4 max-w-xl text-sm leading-7 text-slate-300 sm:text-base">
-              I’m a passionate Frontend Developer transforming ideas into visually engaging, responsive, and user-focused websites. Skilled in blending creativity with functionality, I bring designs to life that not only look great but also deliver seamless user experiences.
+              I’m a passionate UI Developer transforming ideas into visually engaging, responsive, and user-focused websites. Skilled in blending creativity with functionality, I bring designs to life that not only look great but also deliver seamless user experiences.
             </p>
             <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
               <a
@@ -101,7 +99,7 @@ export default function Home() {
               </div>
               <div className="min-w-0 rounded-2xl border border-sky-400/10 bg-slate-950/75 p-4 shadow-inner shadow-sky-950/30">
                 <p className="text-[9px] font-semibold uppercase tracking-[0.22em] text-sky-300">Focus</p>
-                <p className="mt-2 text-sm font-bold leading-snug text-white sm:text-base">Frontend Developer</p>
+                <p className="mt-2 text-sm font-bold leading-snug text-white sm:text-base">UI Developer</p>
               </div>
             </div>
           </div>
@@ -128,7 +126,7 @@ export default function Home() {
             <p className="text-xs uppercase tracking-[0.25em] text-sky-300 sm:tracking-[0.35em]">About Me</p>
             <h2 className="mt-4 text-2xl font-bold text-white sm:text-3xl">Hello! I’m Saurav Kumar.</h2>
             <p className="mt-6 text-sm leading-7 text-slate-300">
-              I’m a creative and detail-oriented Frontend Developer with expertise in HTML, CSS, Bootstrap 5.3, Tailwind CSS, Ant Design, Material UI, React.js, and Next.js. I transform ideas into visually stunning, user-friendly digital experiences. Passionate about blending aesthetics with functionality, I thrive on crafting designs that not only look amazing but also feel intuitive to use. Let’s talk about bringing something truly unique to life together!
+              I’m a creative and detail-oriented UI Developer with expertise in HTML, CSS, Bootstrap 5.3, Tailwind CSS, Ant Design, Material UI, React.js, and Next.js. I transform ideas into visually stunning, user-friendly digital experiences. Passionate about blending aesthetics with functionality, I thrive on crafting designs that not only look amazing but also feel intuitive to use. Let’s talk about bringing something truly unique to life together!
             </p>
             <div className="mt-7 grid gap-3 sm:grid-cols-3">
               {stats.map((item) => (
