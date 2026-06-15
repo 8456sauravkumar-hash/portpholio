@@ -115,6 +115,7 @@ export default function Home() {
                 src="https://portfolio-alpha-ten-61.vercel.app/_next/static/media/profile_img.00c2ce84.jpg"
                 alt="Saurav Kumar"
                 fill
+                priority
                 sizes="(max-width: 640px) 100vw, 380px"
                 className="object-cover"
               />
