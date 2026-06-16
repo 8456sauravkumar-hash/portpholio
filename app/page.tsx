@@ -110,7 +110,7 @@ export default function Home() {
             <div className="absolute -bottom-8 left-4 h-32 w-32 rounded-full bg-rose-400/10 blur-3xl" />
             <div className="relative aspect-[4/5] w-full max-w-sm overflow-hidden rounded-[2rem] border border-cyan-300/20 bg-slate-950 shadow-[0_35px_90px_rgba(8,47,73,0.45)] ring-1 ring-white/10">
               <Image
-                src="https://portfolio-alpha-ten-61.vercel.app/_next/static/media/profile_img.00c2ce84.jpg"
+                src="/profile_img.png"
                 alt="Saurav Kumar"
                 fill
                 priority
