@@ -151,7 +151,7 @@ export default function Experience() {
               <p className="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Projects Completed</p>
             </div>
             <div className="rounded-xl border border-slate-700/50 bg-slate-950/50 p-4 text-center hover:border-cyan-400/50 transition">
-              <p className="text-3xl font-black text-cyan-300">100%</p>
+              <p className="text-3xl font-black text-cyan-300">99.9%</p>
               <p className="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Client Satisfaction</p>
             </div>
           </div>

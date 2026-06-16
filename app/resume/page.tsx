@@ -18,19 +18,19 @@ const education = [
   {
     title: "Bachelor of Technology",
     place: "Career point University, Himachal Pradesh",
-    detail: "CGPA: 7.8/10",
+    detail: "CGPA: 6.6/10",
     year: "August 2020",
   },
   {
     title: "Higher Secondary",
     place: "Govt Sen. sec School Dhundla, Himachal Pradesh",
-    detail: "Percentage: 68%",
+    detail: "Percentage: 58%",
     year: "March 2016",
   },
   {
     title: "Secondary",
     place: "Govt Sen. sec School Dhundla, Himachal Pradesh",
-    detail: "Percentage: 75%",
+    detail: "Percentage: 64%",
     year: "March 2014",
   },
 ];
